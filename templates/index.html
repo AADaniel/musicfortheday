@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>MUSIC FOR THE DAY</title>
+    <link rel="stylesheet" href="static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/fb3ae04cae.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="nav">
+      <h2>MUSIC FOR THE DAY</h2>
+      <i class="fas fa-question fa-2x"></i>
+    </div>
+
+    <div class="instuctions">
+      <i class="fas fa-times"></i>
+      <h3>HOW TO PLAY</h3>
+      <ul>
+        <li>A new song snippet is posted everyday</li>
+        <li>You have 5 tries to guess the song </li>
+        <li>Do not include symbols such as apostrophe(') or full stop(".") in your answer</li>
+        <li>If it's a multi-word song, leave the appropriate spaces</li>
+      </ul>
+      <p>*Song snippets are posted at midnight</p>
+    </div>
+
+    <div class="congratulations" style="display: {{ congratsvalue }}">
+      <h2>CONGRATULATIONS</h2>
+      <p>You Got it right.<br> Now you get to listen to the full song.</p>
+      <button type="button" name="listen">Listen</button>
+      <p>Share this with your friends!</p>
+      <button type="button" class="share" name="listen">SHARE</button>
+    </div>
+
+    <div class="lost" style="display: {{ lostvalue }}">
+      <i class="fas fa-times lost-times"></i>
+      <h2>You have no more tries</h2>
+      <p>Sorry<br> Better luck tomorrow.</p>
+      <p>Maybe your friends have the answer?</p>
+      <button type="button" class="share2" name="listen">SHARE</button>
+    </div>
+
+    <div class="img-container">
+      <img src="{{ cover_img }}" alt="song cover">
+    </div>
+
+    <p class="song-info song-title">{{ songtitle }}</p>
+    <p class="song-info">{{ songartist }}</p>
+
+    <div class="progress-container">
+      <div class="progress">
+      </div>
+    </div>
+
+    <div class="music-controls">
+      <i class="fas fa-step-backward fa-3x"></i>
+      <i class="fas fa-play fa-3x play play-btn"></i>
+      <i class="fas fa-step-forward fa-3x"></i>
+    </div>
+
+    <audio src="{{ song_audio }}" id="audio">
+    </audio>
+
+    <div class="user-input" style="display: {{ formhere }}">
+      <form action="/checkanswer" method="post">
+        <input type="text" name="userguess" value="" placeholder="Guess Song"><br>
+        <button type="submit" name="button">Check Answer</button>
+      </form>
+    </div>
+    <script src="static/index.js">
+    </script>
+  </body>
+</html>

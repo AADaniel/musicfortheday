@@ -1,0 +1,115 @@
+songTitle,artist,songCoverPixel,songCover,songSnippet,songFull,day,month
+Shape of You,Ed Sheeran,static/images/songCoverPixel/shapeofyou.png,static/images/songCover/shapeofyou.png,static/audio/songSnippet/shapeofyou.mp3,static/audio/songFull/shapeofyou.mp3,1,2
+Smells Like Teen Spirit,Nirvana,static/images/songCoverPixel/smellsliketeenspirit.jpg,static/images/songCover/smellsliketeenspirit.jpg,static/audio/songSnippet/smellsliketeenspirit.mp3,static/audio/songFull/smellsliketeenspirit.mp3,1,1
+Blinding Lights,The Weeknd,static/images/songCoverPixel/blindinglights.jpg,static/images/songCover/blindinglights.jpg,static/audio/songSnippet/blindinglights.mp3,static/audio/songFull/blindinglights.mp3,3,3
+Dance Monkey,Tones and I,static/images/songCoverPixel/dancemonkey.jpg,static/images/songCover/dancemonkey.jpg,static/audio/songSnippet/dancemonkey.mp3,static/audio/songFull/dancemonkey.mp3,2,2
+Someone You Loved,Lewis Capaldi,static/images/songCoverPixel/someoneyouloved.png,static/images/songCover/someoneyouloved.png,static/audio/songSnippet/someoneyouloved.mp3,static/audio/songFull/someoneyouloved.mp3,3,1
+Billie Jean,Michael Jackson,static/images/songCoverPixel/billiejean.jpg,static/images/songCover/billiejean.jpg,static/audio/songSnippet/billiejean.mp3,static/audio/songFull/billiejean.mp3,2,3
+Rockstar,Post Malone ft 21 Savage,static/images/songCoverPixel/rockstar.jpg,static/images/songCover/rockstar.jpg,static/audio/songSnippet/rockstar.mp3,static/audio/songFull/rockstar.mp3,1,3
+Bohemian Rhapsody,Queen,static/images/songCoverPixel/bohemianrhapsody.png,static/images/songCover/bohemianrhapsody.png,static/audio/songSnippet/bohemianrhapsody.mp3,static/audio/songFull/bohemianrhapsody.mp3,2,1
+Sunflower,Post Malone ft Swae Lee,static/images/songCoverPixel/sunflower.jpg,static/images/songCover/sunflower.jpg,static/audio/songSnippet/sunflower.mp3,static/audio/songFull/sunflower.mp3,4,2
+One Dance,Drake ft Wizkid,static/images/songCoverPixel/onedance.jpg,static/images/songCover/onedance.jpg,static/audio/songSnippet/onedance.mp3,static/audio/songFull/onedance.mp3,5,2
+Like a Rolling Stone,Bob Dylan,static/images/songCoverPixel/likearollingstone.jpg,static/images/songCover/likearollingstone.jpg,static/audio/songSnippet/likearollingstone.mp3,static/audio/songFull/likearollingstone.mp3,6,1
+Closer,The Chainsmoker ft Halsey,static/images/songCoverPixel/closer.png,static/images/songCover/closer.png,static/audio/songSnippet/closer.mp3,static/audio/songFull/closer.mp3,6,3
+Believer,Imagine Dragons,static/images/songCoverPixel/believer.jpg,static/images/songCover/believer.jpg,static/audio/songSnippet/believer.mp3,static/audio/songFull/believer.mp3,3,2
+Senorita,Shawn Mendes and Camila Cabello,static/images/songCoverPixel/senorita.png,static/images/songCover/senorita.png,static/audio/songSnippet/senorita.mp3,static/audio/songFull/senorita.mp3,4,3
+Stay,Kid Laroi and Justin Bieber,static/images/songCoverPixel/stay.png,static/images/songCover/stay.png,static/audio/songSnippet/stay.mp3,static/audio/songFull/stay.mp3,5,3
+Perfect,Ed Sheeran,static/images/songCoverPixel/perfect.jpg,static/images/songCover/perfect.jpg,static/audio/songSnippet/perfect.mp3,static/audio/songFull/perfect.mp3,18,12
+Say You Wont Let Go,James Arthur,static/images/songCoverPixel/sayyouwontletgo.jpg,static/images/songCover/sayyouwontletgo.jpg,static/audio/songSnippet/sayyouwontletgo.mp3,static/audio/songFull/sayyouwontletgo.mp3,7,3
+Bad Guy,Billie Eillish,static/images/songCoverPixel/badguy.png,static/images/songCover/badguy.png,static/audio/songSnippet/badguy.mp3,static/audio/songFull/badguy.mp3,6,2
+Heat Waves,Glass Animals,static/images/songCoverPixel/heatwaves.png,static/images/songCover/heatwaves.png,static/audio/songSnippet/heatwaves.mp3,static/audio/songFull/heatwaves.mp3,5,1
+Thinking Out Loud,Ed Sheeran,static/images/songCoverPixel/thinkingoutloud.png,static/images/songCover/thinkingoutloud.png,static/audio/songSnippet/thinkingoutloud.mp3,static/audio/songFull/thinkingoutloud.mp3,4,1
+Lucid Dreams,Juice WRLD,static/images/songCoverPixel/luciddreams.png,static/images/songCover/luciddreams.png,static/audio/songSnippet/luciddreams.mp3,static/audio/songFull/luciddreams.mp3,8,3
+Dont Start Now ,Dua Lipa,static/images/songCoverPixel/dontstartnow.png,static/images/songCover/dontstartnow.png,static/audio/songSnippet/dontstartnow.mp3,static/audio/songFull/dontstartnow.mp3,8,2
+Starboy,The Weeknd ft Daft Punk,static/images/songCoverPixel/starboy.png,static/images/songCover/starboy.png,static/audio/songSnippet/starboy.mp3,static/audio/songFull/starboy.mp3,20,12
+Gods Plan,Drake,static/images/songCoverPixel/godsplan.png,static/images/songCover/godsplan.png,static/audio/songSnippet/godsplan.mp3,static/audio/songFull/godsplan.mp3,9,3
+Lovely,Billie Elilish ft Khaled,static/images/songCoverPixel/lovely.png,static/images/songCover/lovely.png,static/audio/songSnippet/lovely.mp3,static/audio/songFull/lovely.mp3,8,1
+Watermelon Sugar,Harry Styles,static/images/songCoverPixel/watermelonsugar.png,static/images/songCover/watermelonsugar.png,static/audio/songSnippet/watermelonsugar.mp3,static/audio/songFull/watermelonsugar.mp3,11,3
+Photograph ,Ed Sheeran,static/images/songCoverPixel/photograph.png,static/images/songCover/photograph.png,static/audio/songSnippet/photograph.mp3,static/audio/songFull/photograph.mp3,7,2
+Something Just Like This,The Chainsmoker and Coldplay,static/images/songCoverPixel/somethingjustlikethis.png,static/images/songCover/somethingjustlikethis.png,static/audio/songSnippet/somethingjustlikethis.mp3,static/audio/songFull/somethingjustlikethis.mp3,10,3
+Shallow,Lady Gaga and Bradley Cooper,static/images/songCoverPixel/shallow.jpg,static/images/songCover/shallow.jpg,static/audio/songSnippet/shallow.mp3,static/audio/songFull/shallow.mp3,21,12
+SAD,XXXTENTACION,static/images/songCoverPixel/sad.jpg,static/images/songCover/sad.jpg,static/audio/songSnippet/sad.mp3,static/audio/songFull/sad.mp3,7,1
+Whistle,Flo Rida,static/images/songCoverPixel/whistle.jpg,static/images/songCover/whistle.jpg,static/audio/songSnippet/whistle.mp3,static/audio/songFull/whistle.mp3,12,3
+Havana,Camila Cabello ft Young Thug,static/images/songCoverPixel/havana.png,static/images/songCover/havana.png,static/audio/songSnippet/havana.mp3,static/audio/songFull/havana.mp3,9,2
+Love Yourself ,Justin Bieber,static/images/songCoverPixel/loveyourself.png,static/images/songCover/loveyourself.png,static/audio/songSnippet/loveyourself.mp3,static/audio/songFull/loveyourself.mp3,19,12
+New Rules ,Dua Lipa,static/images/songCoverPixel/newrules.png,static/images/songCover/newrules.png,static/audio/songSnippet/newrules.mp3,static/audio/songFull/newrules.mp3,9,1
+Lean On,Major Lazer,static/images/songCoverPixel/leanon.png,static/images/songCover/leanon.png,static/audio/songSnippet/leanon.mp3,static/audio/songFull/leanon.mp3,11,2
+Despacito,"Luis Fonsi, Daddy Yankee and Justin bieber",static/images/songCoverPixel/despacito.png,static/images/songCover/despacito.png,static/audio/songSnippet/despacito.mp3,static/audio/songFull/despacito.mp3,10,2
+Thunder,Imagine Dragons,static/images/songCoverPixel/thunder.jpg,static/images/songCover/thunder.jpg,static/audio/songSnippet/thunder.mp3,static/audio/songFull/thunder.mp3,13,3
+Sorry,Justin Bieber,static/images/songCoverPixel/sorry.png,static/images/songCover/sorry.png,static/audio/songSnippet/sorry.mp3,static/audio/songFull/sorry.mp3,24,12
+Dont Let Me Down,The Chainsmoker ft Daya,static/images/songCoverPixel/dontletmedown.png,static/images/songCover/dontletmedown.png,static/audio/songSnippet/dontletmedown.mp3,static/audio/songFull/dontletmedown.mp3,12,1
+XO Tour Llif3,Lil Uzi Vert,static/images/songCoverPixel/xotourllif3.png,static/images/songCover/xotourllif3.png,static/audio/songSnippet/xotourllif3.mp3,static/audio/songFull/xotourllif3.mp3,14,3
+Humble,Kendrick Lamar,static/images/songCoverPixel/humble.jpg,static/images/songCover/humble.jpg,static/audio/songSnippet/humble.mp3,static/audio/songFull/humble.mp3,12,2
+I Took a Pill in Ibiza,Mike Posner,static/images/songCoverPixel/itookapillinibiza.png,static/images/songCover/itookapillinibiza.png,static/audio/songSnippet/itookapillinibiza.mp3,static/audio/songFull/itookapillinibiza.mp3,15,3
+Let Me Love You,DJ Snake ft JUstin Bieber,static/images/songCoverPixel/letmeloveyou.jpg,static/images/songCover/letmeloveyou.jpg,static/audio/songSnippet/letmeloveyou.mp3,static/audio/songFull/letmeloveyou.mp3,31,1
+Better Now,Post Malone,static/images/songCoverPixel/betternow.png,static/images/songCover/betternow.png,static/audio/songSnippet/betternow.mp3,static/audio/songFull/betternow.mp3,22,12
+All of Me,John Legend,static/images/songCoverPixel/allofme.jpg,static/images/songCover/allofme.jpg,static/audio/songSnippet/allofme.mp3,static/audio/songFull/allofme.mp3,11,1
+Faded,Alan Walker,static/images/songCoverPixel/faded.png,static/images/songCover/faded.png,static/audio/songSnippet/faded.mp3,static/audio/songFull/faded.mp3,17,3
+Stressed Out,Twenty One Pilots,static/images/songCoverPixel/stressedout.jpg,static/images/songCover/stressedout.jpg,static/audio/songSnippet/stressedout.mp3,static/audio/songFull/stressedout.mp3,16,3
+Congratulations ,Post Malone ft Quavo,static/images/songCoverPixel/congratulations.jpeg,static/images/songCover/congratulations.jpeg,static/audio/songSnippet/congratulations.mp3,static/audio/songFull/congratulations.mp3,25,12
+7 rings,Ariana Grande,static/images/songCoverPixel/7rings.png,static/images/songCover/7rings.png,static/audio/songSnippet/7rings.mp3,static/audio/songFull/7rings.mp3,10,1
+Take me to Church,Hozier,static/images/songCoverPixel/takemetochurch.jpg,static/images/songCover/takemetochurch.jpg,static/audio/songSnippet/takemetochurch.mp3,static/audio/songFull/takemetochurch.mp3,13,2
+Jocelyn Flores,XXXTENTACION,static/images/songCoverPixel/jocelynflores.png,static/images/songCover/jocelynflores.png,static/audio/songSnippet/jocelynflores.mp3,static/audio/songFull/jocelynflores.mp3,13,1
+Treat You Better,Shawn Mendes,static/images/songCoverPixel/treatyoubetter.png,static/images/songCover/treatyoubetter.png,static/audio/songSnippet/treatyoubetter.mp3,static/audio/songFull/treatyoubetter.mp3,23,12
+SICKO MODE,Travis Scott ft Drake,static/images/songCoverPixel/sickomode.jpg,static/images/songCover/sickomode.jpg,static/audio/songSnippet/sickomode.mp3,static/audio/songFull/sickomode.mp3,18,3
+Unforgettable,French Montana ft Swae Lee,static/images/songCoverPixel/unforgettable.jpg,static/images/songCover/unforgettable.jpg,static/audio/songSnippet/unforgettable.mp3,static/audio/songFull/unforgettable.mp3,14,1
+Uptown Funk,Mark Ronson ft Bruno Mars,static/images/songCoverPixel/uptownfunk.png,static/images/songCover/uptownfunk.png,static/audio/songSnippet/uptownfunk.mp3,static/audio/songFull/uptownfunk.mp3,14,2
+Let Her Go,Passenger,static/images/songCoverPixel/lethergo.jpg,static/images/songCover/lethergo.jpg,static/audio/songSnippet/lethergo.mp3,static/audio/songFull/lethergo.mp3,28,12
+Cheap Thrills ,Sia ft Sean Paul,static/images/songCoverPixel/cheapthrills.png,static/images/songCover/cheapthrills.png,static/audio/songSnippet/cheapthrills.mp3,static/audio/songFull/cheapthrills.mp3,15,1
+Stay With Me,Sam Smith,static/images/songCoverPixel/staywithme.png,static/images/songCover/staywithme.png,static/audio/songSnippet/staywithme.mp3,static/audio/songFull/staywithme.mp3,27,12
+Girls like You,Maroon 5 ft Cardi B,static/images/songCoverPixel/girlslikeyou.png,static/images/songCover/girlslikeyou.png,static/audio/songSnippet/girlslikeyou.mp3,static/audio/songFull/girlslikeyou.mp3,20,3
+thank u next,Ariana Grande,static/images/songCoverPixel/thankunext.png,static/images/songCover/thankunext.png,static/audio/songSnippet/thankunext.mp3,static/audio/songFull/thankunext.mp3,26,12
+goosebumps,Travis Scott ft Drake,static/images/songCoverPixel/goosebumps.jpg,static/images/songCover/goosebumps.jpg,static/audio/songSnippet/goosebumps.mp3,static/audio/songFull/goosebumps.mp3,19,3
+Too Good at Goodbyes,Sam Smith,static/images/songCoverPixel/toogoodatgoodbyes.jpg,static/images/songCover/toogoodatgoodbyes.jpg,static/audio/songSnippet/toogoodatgoodbyes.mp3,static/audio/songFull/toogoodatgoodbyes.mp3,16,2
+7 years,Lukas Graham,static/images/songCoverPixel/7years.jpg,static/images/songCover/7years.jpg,static/audio/songSnippet/7years.mp3,static/audio/songFull/7years.mp3,15,2
+I dont care,Ed Sheeran ft Justin Bieber,static/images/songCoverPixel/idontcare.png,static/images/songCover/idontcare.png,static/audio/songSnippet/idontcare.mp3,static/audio/songFull/idontcare.mp3,30,12
+Cold Water,Major Lazer ft Justin Bieber,static/images/songCoverPixel/coldwater.jpg,static/images/songCover/coldwater.jpg,static/audio/songSnippet/coldwater.mp3,static/audio/songFull/coldwater.mp3,22,3
+Cant Stop The Feeling,Justin Timberlake,static/images/songCoverPixel/cantstopthefeeling.png,static/images/songCover/cantstopthefeeling.png,static/audio/songSnippet/cantstopthefeeling.mp3,static/audio/songFull/cantstopthefeeling.mp3,21,3
+What do you mean,Justin Bieber,static/images/songCoverPixel/whatdoyoumean.png,static/images/songCover/whatdoyoumean.png,static/audio/songSnippet/whatdoyoumean.mp3,static/audio/songFull/whatdoyoumean.mp3,29,12
+Wake me up,Avicii,static/images/songCoverPixel/wakemeup.png,static/images/songCover/wakemeup.png,static/audio/songSnippet/wakemeup.mp3,static/audio/songFull/wakemeup.mp3,25,3
+Stitches,Shawn Mendes,static/images/songCoverPixel/stitches.png,static/images/songCover/stitches.png,static/audio/songSnippet/stitches.mp3,static/audio/songFull/stitches.mp3,23,3
+Without me,Halsey,static/images/songCoverPixel/withoutme.png,static/images/songCover/withoutme.png,static/audio/songSnippet/withoutme.mp3,static/audio/songFull/withoutme.mp3,24,3
+Thats What I Like,Bruno Mars,static/images/songCoverPixel/thatswhatilike.jpg,static/images/songCover/thatswhatilike.jpg,static/audio/songSnippet/thatswhatilike.mp3,static/audio/songFull/thatswhatilike.mp3,31,12
+I Like It,Cardi B,static/images/songCoverPixel/ilikeit.png,static/images/songCover/ilikeit.png,static/audio/songSnippet/ilikeit.mp3,static/audio/songFull/ilikeit.mp3,27,3
+Circles,Post Malone,static/images/songCoverPixel/circles.png,static/images/songCover/circles.png,static/audio/songSnippet/circles.mp3,static/audio/songFull/circles.mp3,26,3
+Psycho,Post Malone ft TY Dollar Sign,static/images/songCoverPixel/psycho.png,static/images/songCover/psycho.png,static/audio/songSnippet/psycho.mp3,static/audio/songFull/psycho.mp3,18,1
+I Fall Apart,Post Malone,static/images/songCoverPixel/ifallapart.jpg,static/images/songCover/ifallapart.jpg,static/audio/songSnippet/ifallapart.mp3,static/audio/songFull/ifallapart.mp3,18,2
+Cheerleader,OMI,static/images/songCoverPixel/cheerleader.jpg,static/images/songCover/cheerleader.jpg,static/audio/songSnippet/cheerleader.mp3,static/audio/songFull/cheerleader.mp3,19,2
+Counting Stars,One Republic,static/images/songCoverPixel/countingstars.png,static/images/songCover/countingstars.png,static/audio/songSnippet/countingstars.mp3,static/audio/songFull/countingstars.mp3,19,1
+Cant Hold Us,Macklemore and Ryan Lewis,static/images/songCoverPixel/cantholdus.png,static/images/songCover/cantholdus.png,static/audio/songSnippet/cantholdus.mp3,static/audio/songFull/cantholdus.mp3,29,3
+See You Again,Wiz Khalifa and Charlie,static/images/songCoverPixel/seeyouagain.png,static/images/songCover/seeyouagain.png,static/audio/songSnippet/seeyouagain.mp3,static/audio/songFull/seeyouagain.mp3,17,2
+Heathens ,Twenty One Pilots,static/images/songCoverPixel/heathens.jpg ,static/images/songCover/heathens.jpg ,static/audio/songSnippet/heathens.mp3,static/audio/songFull/heathens.mp3,28,3
+One Kiss,Calvin Harris and Dua Lipa,static/images/songCoverPixel/onekiss.png,static/images/songCover/onekiss.png,static/audio/songSnippet/onekiss.mp3,static/audio/songFull/onekiss.mp3,17,1
+Radioactive,Imagine Dragons,static/images/songCoverPixel/radioactive.jpg,static/images/songCover/radioactive.jpg,static/audio/songSnippet/radioactive.mp3,static/audio/songFull/radioactive.mp3,31,3
+Attention,Charlie Puth,static/images/songCoverPixel/attention.jpg,static/images/songCover/attention.jpg,static/audio/songSnippet/attention.mp3,static/audio/songFull/attention.mp3,20,2
+This is What You Came For,Calvin Harris and Rihanna,static/images/songCoverPixel/thisiswhatyoucamefor.png,static/images/songCover/thisiswhatyoucamefor.png,static/audio/songSnippet/thisiswhatyoucamefor.mp3,static/audio/songFull/thisiswhatyoucamefor.mp3,16,1
+In My Feelings ,Drake,static/images/songCoverPixel/inmyfeelings.jpg,static/images/songCover/inmyfeelings.jpg,static/audio/songSnippet/inmyfeelings.mp3,static/audio/songFull/inmyfeelings.mp3,30,3
+Cant Feel My Face,The Weekend,static/images/songCoverPixel/cantfeelmyface.png,static/images/songCover/cantfeelmyface.png,static/audio/songSnippet/cantfeelmyface.mp3,static/audio/songFull/cantfeelmyface.mp3,22,2
+Eastside,"benny blanco, Halsey and Khaled",static/images/songCoverPixel/eastside.png,static/images/songCover/eastside.png,static/audio/songSnippet/eastside.mp3,static/audio/songFull/eastside.mp3,20,1
+Hello,Adele,static/images/songCoverPixel/hello.png,static/images/songCover/hello.png,static/audio/songSnippet/hello.mp3,static/audio/songFull/hello.mp3,1,4
+Moonlight,XXXTENTACION,static/images/songCoverPixel/moonlight.png,static/images/songCover/moonlight.png,static/audio/songSnippet/moonlight.mp3,static/audio/songFull/moonlight.mp3,21,2
+The Hills,The Weeknd,static/images/songCoverPixel/thehills.jpg,static/images/songCover/thehills.jpg,static/audio/songSnippet/thehills.mp3,static/audio/songFull/thehills.mp3,21,1
+Old Town Road,Lil Nas X ft Billy Ray Cyrus,static/images/songCoverPixel/oldtownroad.jpg,static/images/songCover/oldtownroad.jpg,static/audio/songSnippet/oldtownroad.mp3,static/audio/songFull/oldtownroad.mp3,24,1
+I Like Me Better,Lauv,static/images/songCoverPixel/ilikemebetter.png,static/images/songCover/ilikemebetter.png,static/audio/songSnippet/ilikemebetter.mp3,static/audio/songFull/ilikemebetter.mp3,2,4
+Taki Taki,"DJ Snake, Selena Gomez, Ozuna and Cardi B",static/images/songCoverPixel/takitaki.png,static/images/songCover/takitaki.png,static/audio/songSnippet/takitaki.mp3,static/audio/songFull/takitaki.mp3,23,1
+Work from Home,Fifth Harmony ft TY Dollar Sign,static/images/songCoverPixel/workfromhome.png,static/images/songCover/workfromhome.png,static/audio/songSnippet/workfromhome.mp3,static/audio/songFull/workfromhome.mp3,3,4
+Riptide,Vance Joy,static/images/songCoverPixel/riptide.jpg,static/images/songCover/riptide.jpg,static/audio/songSnippet/riptide.mp3,static/audio/songFull/riptide.mp3,23,2
+Sugar,Maroon 5 ,static/images/songCoverPixel/sugar.png,static/images/songCover/sugar.png,static/audio/songSnippet/sugar.mp3,static/audio/songFull/sugar.mp3,22,1
+We Dont Talk Anymore,Charlie Puth ft Selena Gomez,static/images/songCoverPixel/wedonttalkanymore.png,static/images/songCover/wedonttalkanymore.png,static/audio/songSnippet/wedonttalkanymore.mp3,static/audio/songFull/wedonttalkanymore.mp3,4,4
+IDGAF,Dua Lipa,static/images/songCoverPixel/idgaf.png,static/images/songCover/idgaf.png,static/audio/songSnippet/idgaf.mp3,static/audio/songFull/idgaf.mp3,24,2
+Chandelier,Sia    ,static/images/songCoverPixel/chandelier.png,static/images/songCover/chandelier.png,static/audio/songSnippet/chandelier.mp3,static/audio/songFull/chandelier.mp3,25,1
+Demons,Imagine Dragons,static/images/songCoverPixel/demons.jpg,static/images/songCover/demons.jpg,static/audio/songSnippet/demons.mp3,static/audio/songFull/demons.mp3,26,1
+I Dont Wanna Live Forever,Zayn and Taylor Swift,static/images/songCoverPixel/idontwannaliveforever.png,static/images/songCover/idontwannaliveforever.png,static/audio/songSnippet/idontwannaliveforever.mp3,static/audio/songFull/idontwannaliveforever.mp3,5,4
+Wild Ones,Flo Rida ft Sia,static/images/songCoverPixel/wildones.jpg,static/images/songCover/wildones.jpg,static/audio/songSnippet/wildones.mp3,static/audio/songFull/wildones.mp3,27,1
+Dynamite,Taio Cruz,static/images/songCoverPixel/dynamite.jpg,static/images/songCover/dynamite.jpg,static/audio/songSnippet/dynamite.mp3,static/audio/songFull/dynamite.mp3,26,2
+Waiting For Love,Avicii,static/images/songCoverPixel/waitingforlove.png,static/images/songCover/waitingforlove.png,static/audio/songSnippet/waitingforlove.mp3,static/audio/songFull/waitingforlove.mp3,6,4
+How Deep Is Your Love,Calvin Harris and Disciples,static/images/songCoverPixel/howdeepisyourlove.png,static/images/songCover/howdeepisyourlove.png,static/audio/songSnippet/howdeepisyourlove.mp3,static/audio/songFull/howdeepisyourlove.mp3,28,1
+Party Rock Anthem,LMFAO,static/images/songCoverPixel/partyrockanthem.jpg,static/images/songCover/partyrockanthem.jpg,static/audio/songSnippet/partyrockanthem.mp3,static/audio/songFull/partyrockanthem.mp3,7,4
+Turn Down For What,DJ Snake,static/images/songCoverPixel/turndownforwhat.jpg,static/images/songCover/turndownforwhat.jpg,static/audio/songSnippet/turndownforwhat.mp3,static/audio/songFull/turndownforwhat.mp3,25,2
+Get Lucky,Daft Punk ft Pharrell Williams,static/images/songCoverPixel/getlucky.jpg,static/images/songCover/getlucky.jpg,static/audio/songSnippet/getlucky.mp3,static/audio/songFull/getlucky.mp3,30,1
+Rude,Magic!,static/images/songCoverPixel/rude.png,static/images/songCover/rude.png,static/audio/songSnippet/rude.mp3,static/audio/songFull/rude.mp3,8,4
+Blurred Lines,Robin Thicke,static/images/songCoverPixel/blurredlines.png,static/images/songCover/blurredlines.png,static/audio/songSnippet/blurredlines.mp3,static/audio/songFull/blurredlines.mp3,9,4
+Cake By The Ocean,DNCE,static/images/songCoverPixel/cakebytheocean.png,static/images/songCover/cakebytheocean.png,static/audio/songSnippet/cakebytheocean.mp3,static/audio/songFull/cakebytheocean.mp3,29,1
+Feel It Still,Portugal. The Man,static/images/songCoverPixel/feelitstill.jpg,static/images/songCover/feelitstill.jpg,static/audio/songSnippet/feelitstill.mp3,static/audio/songFull/feelitstill.mp3,10,4
+Love Me Again,John Newman,static/images/songCoverPixel/lovemeagain.jpg,static/images/songCover/lovemeagain.jpg,static/audio/songSnippet/lovemeagain.mp3,static/audio/songFull/lovemeagain.mp3,27,2
+Teach Me How To Dougie,Cali Swag District,static/images/songCoverPixel/teachmehowtodougie.jpg,static/images/songCover/teachmehowtodougie.jpg,static/audio/songSnippet/teachmehowtodougie.mp3,static/audio/songFull/teachmehowtodougie.mp3,28,2

@@ -1,0 +1,291 @@
+/* Media Query for Mobile Devices */
+        @media (max-width: 480px) {
+          * {
+            margin: 0;
+            padding: 0;
+          }
+            body {
+                background-color: red;
+            }
+            * {
+              margin: 0;
+              padding: 0;
+            }
+              body {
+                  background-color: white;
+              }
+              .nav {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin: 20px 35px;
+              }
+              .nav h2 {
+                font-family: 'PT Sans', sans-serif;
+                font-size: 36px;
+                margin: 0 auto;
+              }
+              .img-container {
+                width: 75vw;
+                height: 30vh;
+                display: flex;
+                justify-content: center;
+                margin: 25px auto 10px auto;
+              }
+              .song-info {
+                font-family: 'Raleway', sans-serif;
+                font-size: 24px;
+                text-align: center;
+                line-height: 1.5;
+              }
+              .music-controls {
+                width: 75vw;
+                display: flex;
+                margin: 15px auto 0 auto;
+                justify-content: space-between;
+              }
+              .music-controls .fas {
+                margin: 0;
+                padding: 0;
+              }
+              .user-input {
+                width: 75vw;
+                margin: 10px auto;
+              }
+              .user-input input {
+                width: 75vw;
+                padding: 10px;
+                border: 1px solid gray;
+                border-radius: 20px;
+                margin-bottom: 10px;
+              }
+              .user-input button {
+                width: 75vw;
+                padding: 10px;
+                border-radius: 20px;
+              }
+              .instuctions {
+                position: absolute;
+                left: 0;
+                right: 0;
+                margin-left: auto;
+                margin-right: auto;
+                background-color: white;
+                width: 75vw;
+                height: 500px;
+                padding: 10px;
+                text-align: right;
+                line-height: 2;
+                border: 1px solid;
+                box-shadow: 3px 5px #888888;
+                display: none;
+              }
+              .instuctions ul {
+                list-style-position: inside;
+                text-align: center;
+                font-family: 'Raleway', sans-serif;
+                font-size: 18px;
+              }
+              .instuctions h3 {
+                font-family: 'Raleway', sans-serif;
+                font-size: 26px;
+                text-align: center;
+              }
+              .instuctions p {
+                text-align: center;
+                font-family: 'Raleway', sans-serif;
+                font-size: 18px;
+                margin-top: 275px;
+              }
+              .fas {
+                cursor: pointer;
+              }
+        }
+
+
+          * {
+            margin: 0;
+            padding: 0;
+          }
+            body {
+                background-color: white;
+            }
+            .nav {
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              margin: 20px 35px;
+            }
+            .nav h2 {
+              font-family: 'PT Sans', sans-serif;
+              font-size: 36px;
+              margin: 0 auto;
+            }
+            .img-container {
+              width: 350px;
+              height: 350px;
+              display: flex;
+              justify-content: center;
+              margin: 25px auto 10px auto;
+            }
+            .song-info {
+              font-family: 'Raleway', sans-serif;
+              font-size: 24px;
+              text-align: center;
+              line-height: 1.5;
+            }
+            .music-controls {
+              width: 350px;
+              display: flex;
+              margin: 15px auto 0 auto;
+              justify-content: space-between;
+            }
+            .music-controls .fas {
+              margin: 0;
+              padding: 0;
+            }
+            .user-input {
+              width: 350px;
+              margin: 10px auto;
+              display: block;
+            }
+            .user-input input {
+              width: 350px;
+              padding: 10px;
+              border: 1px solid gray;
+              border-radius: 20px;
+              margin-bottom: 10px;
+            }
+            .user-input button {
+              width: 370px;
+              padding: 10px;
+              border-radius: 20px;
+            }
+            .instuctions {
+              position: absolute;
+              left: 0;
+              right: 0;
+              margin-left: auto;
+              margin-right: auto;
+              background-color: white;
+              width: 400px;
+              height: 500px;
+              padding: 10px;
+              text-align: right;
+              line-height: 2;
+              border: 1px solid;
+              box-shadow: 3px 5px #888888;
+              display: none;
+            }
+            .instuctions ul {
+              list-style-position: inside;
+              text-align: center;
+              font-family: 'Raleway', sans-serif;
+              font-size: 18px;
+            }
+            .instuctions h3 {
+              font-family: 'Raleway', sans-serif;
+              font-size: 26px;
+              text-align: center;
+            }
+            .instuctions p {
+              text-align: center;
+              font-family: 'Raleway', sans-serif;
+              font-size: 18px;
+              margin-top: 165px;
+            }
+            .fas {
+              cursor: pointer;
+            }
+            .progress-container {
+              cursor: pointer;
+              background-color: gray;
+              border-radius: 5px;
+              margin: 10px auto;
+              height: 4px;
+              width: 350px;
+            }
+            .progress {
+              background-color: #fe8daa;
+              border-radius: 5px;
+              height: 100%;
+              width: 0%;
+              transition: width 0.1s linear;
+            }
+            .congratulations {
+              position: absolute;
+              left: 0;
+              right: 0;
+              margin-left: auto;
+              margin-right: auto;
+              background-color: white;
+              width: 400px;
+              height: 400px;
+              padding: 10px;
+              text-align: center;
+              line-height: 2;
+              border: 1px solid;
+              box-shadow: 3px 5px #888888;
+              display: none;
+            }
+            .congratulations h2 {
+              font-family: 'Raleway', sans-serif;
+              font-size: 26px;
+            }
+            .congratulations p {
+              font-family: 'Raleway', sans-serif;
+              font-size: 18px;
+            }
+            .congratulations button {
+              margin-top: 20px;
+              padding: 10px 45px;
+              background-color: black;
+              font-family: 'Raleway', sans-serif;
+              font-size: 18px;
+              color: white;
+            }
+            .lost {
+              position: absolute;
+              left: 0;
+              right: 0;
+              margin-left: auto;
+              margin-right: auto;
+              background-color: white;
+              width: 400px;
+              height: 400px;
+              padding: 10px;
+              text-align: center;
+              line-height: 2;
+              border: 1px solid;
+              box-shadow: 3px 5px #888888;
+              text-align: right;
+              display: none;
+            }
+            .lost h2 {
+              text-align: center;
+              font-family: 'Raleway', sans-serif;
+              font-size: 26px;
+            }
+            .lost p {
+              text-align: center;
+              font-family: 'Raleway', sans-serif;
+              font-size: 18px;
+            }
+            .share {
+              margin: 20px auto;
+              padding: 10px 45px;
+              background-color: black;
+              font-family: 'Raleway', sans-serif;
+              font-size: 18px;
+              color: white;
+              display: block;
+            }
+            .share2 {
+              margin: 20px auto;
+              padding: 10px 45px;
+              background-color: black;
+              font-family: 'Raleway', sans-serif;
+              font-size: 18px;
+              color: white;
+              display: block;
+            }
